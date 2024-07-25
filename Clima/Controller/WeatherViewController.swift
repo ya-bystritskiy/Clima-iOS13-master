@@ -49,3 +49,8 @@ class WeatherViewController: UIViewController , UITextDragDelegate, UITextFieldD
     
 }
 
+
+func getWeather(){
+    
+}
+
